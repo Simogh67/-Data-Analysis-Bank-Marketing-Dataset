@@ -59,4 +59,4 @@ Let's, take a look at the dataset via the following data dictionary:
 
 ### The answers to the above questions are available in the Jupiter Notebook included in this repository.
 
-To answer the above questions, we leverage supervised machine learning algorithms and Statistical hypothesis testing.
+To answer the above questions, we leverage supervised machine learning algorithms and Statistical hypothesis testing methods.
