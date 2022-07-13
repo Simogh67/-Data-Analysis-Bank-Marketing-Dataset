@@ -4,7 +4,7 @@ In this project, we consider Bank Marketing dataset, which is a public dataset a
 
 The data is related with two different direct marketing campaigns of a Portuguese banking institution.<br> 
 The marketing campaigns were based on phone calls. 
-Often, more than one contact to the same client was required, <br> 
+Often, more than one contact to the same client was required, 
 in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 # Business Questions and Data Understanding
