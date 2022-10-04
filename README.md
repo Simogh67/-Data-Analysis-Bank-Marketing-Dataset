@@ -55,8 +55,6 @@ Let's, take a look at the dataset via the following data dictionary:
 
 * **3. To increase the conversion rate of future campaigns, which variables are important ?**
 
-* **4. Can we use the data for future customers' behavior prediction?**
-
 ### The answers to the above questions are available in the Jupiter Notebook included in this repository.
 
-To answer the above questions, we leverage supervised machine learning algorithms and Statistical hypothesis testing methods.
+To answer the above questions, we leverage Statistical hypothesis testing methods, **Please also read the marketing-analysis PDF attached to this repository**.
