@@ -57,4 +57,4 @@ Let's, take a look at the dataset via the following data dictionary:
 
 ### The answers to the above questions are available in the Jupiter Notebook included in this repository.
 
-To answer the above questions, we leverage Statistical hypothesis testing methods, **Please also read the marketing-analysis PDF attached to this repository**.
+To answer the above questions, we leverage Statistical hypothesis testing methods, **Please also read the marketing-analysis Medium post: https://medium.com/@simogh67/lessons-from-a-bank-marketing-campaign-a25a5697a6b8**.
